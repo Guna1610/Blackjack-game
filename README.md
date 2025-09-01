@@ -10,6 +10,6 @@ This is a simple **Blackjack game** built in Python as part of the *100 Days of 
 ## 🚀 Getting Started
 Clone the repo and run:
 ```bash
-git clone https://github.com/your-username/blackjack-game.git
-cd blackjack-game
-python blackjack.py
+git clone https://github.com/Guna1610/Blackjack-game.git
+cd Blackjack-game
+python Blackjack.py
